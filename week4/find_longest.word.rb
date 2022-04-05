@@ -18,6 +18,7 @@ class ProgramingLanguage
   end
 end
 
-programin_laguage = ProgramingLanguage.new(LANGUAGE_ARRAY)
-puts programin_laguage.call
+programing_laguage = ProgramingLanguage.new(LANGUAGE_ARRAY)
+puts programing_laguage.call
+
 
